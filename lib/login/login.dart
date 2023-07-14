@@ -138,7 +138,7 @@ class _LoginPageState extends State<LoginPage> {
                             '알림',
                           ),
                           content: Text(
-                            '로그인 실패!',
+                            '로그인 실패!!',
                           ),
                           actions: [
                             TextButton(
