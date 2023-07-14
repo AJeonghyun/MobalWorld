@@ -40,7 +40,7 @@ class _LoadingPageState extends State<LoadingPage> {
             Container(
               alignment: Alignment.bottomCenter,
               child: const Text(
-                '마음의 편지',
+                'Wiro',
                 style: TextStyle(
                   fontSize: 40,
                   fontWeight: FontWeight.w600,
