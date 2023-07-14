@@ -42,7 +42,7 @@ class _LoadingPageState extends State<LoadingPage> {
               child: const Text(
                 '마음의 편지',
                 style: TextStyle(
-                  fontSize: 40,
+                  fontSize: 50,
                   fontWeight: FontWeight.w600,
                   fontFamily: 'KOTRA HOPE',
                 ),
