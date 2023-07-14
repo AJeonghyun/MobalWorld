@@ -81,13 +81,15 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-     - family: Jalnan
-       fonts:
-         - asset: assets/fonts/Jalnan.ttf
-           weight: 200
      - family: KOTRA HOPE
        fonts:
          - asset: assets/fonts/KOTRA HOPE.ttf
+     - family: GmarketSansTTF
+       fonts:
+         - asset: assets/fonts/GmarketSansTTFBold.ttf
+         - asset: assets/fonts/GmarketSansTTFLight.ttf
+         - asset: assets/fonts/GmarketSansTTFMedium.ttf
+
 
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
